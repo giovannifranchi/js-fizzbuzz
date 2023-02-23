@@ -24,7 +24,24 @@ main {
 
 .box {
     width: calc(100% / 7 - 1.25rem);
+    height: 6.25rem;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.blue {
+    background-color: #1389b2;
+}
+
+.green {
+    background-color: #0bd7a2;
+}
+
+.yellow {
+   background-color: #ffd367; 
+}
+
+.red {
+    background-color: #f0466f;
 }
