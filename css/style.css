@@ -7,11 +7,16 @@
 body {
     background-color: #083b4c;
     color: #fff;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
     text-align: center;
     margin: 3.125rem 0;
+}
+
+h3 {
+    text-align: center;
 }
 
 main {
