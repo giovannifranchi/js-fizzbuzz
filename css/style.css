@@ -28,8 +28,8 @@ main {
 }
 
 .box {
-    width: calc(100% / 7 - 1.25rem);
-    height: 6.25rem;
+    width: 5.625rem;
+    height: 5.625rem;
     display: flex;
     justify-content: center;
     align-items: center;
